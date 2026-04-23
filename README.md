@@ -1,10 +1,10 @@
-# Codebase Brain
+# AI Codebase Brain
 
 > An intelligent context management MCP server for AI coding assistants that solves context window limitations and enables persistent, efficient code assistance.
 
 ## Overview
 
-Codebase Brain is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides AI coding assistants (Claude Code, OpenCode, Cursor, Windsurf, Codex, etc.) with powerful tools for working with large codebases:
+AI Codebase Brain is a [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server that provides AI coding assistants (Claude Code, OpenCode, Cursor, Windsurf, Codex, etc.) with powerful tools for working with large codebases:
 
 - **Project Intelligence** - Dependency graphs, file relationships, codebase mapping
 - **Context Management** - Session persistence, conversation history, smart context selection
