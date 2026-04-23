@@ -28,17 +28,17 @@ AI Codebase Brain is a [Model Context Protocol (MCP)](https://modelcontextprotoc
 
 ```bash
 # Clone the project
-git clone https://github.com/your-repo/codebase-brain.git
-cd codebase-brain
+git clone https://github.com/your-repo/ai-codebase-brain.git
+cd ai-codebase-brain
 
 # Install dependencies
 go mod download
 
 # Build
-go build -o codebase-brain ./cmd/server
+go build -o ai-codebase-brain ./cmd/server
 
 # Run (connects to AI coder via stdio)
-./codebase-brain
+./ai-codebase-brain
 ```
 
 ## Supported AI Coders
@@ -148,7 +148,7 @@ port: 8080
 ## Architecture
 
 ```
-codebase-brain/
+ai-codebase-brain/
 ├── cmd/server/          # Entry point
 ├── internal/
 │   ├── config/         # Configuration
